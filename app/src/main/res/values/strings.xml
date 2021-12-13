@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="ksiazka">Książka</string>
+    <string name="kamien">Kamień</string>
+</resources>
